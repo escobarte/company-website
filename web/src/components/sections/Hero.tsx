@@ -63,7 +63,7 @@ export function Hero() {
             transition={{ delay: 0.5, duration: 0.6 }}
           >
             <Image
-              src="https://placehold.co/560x420/1F1F1F/C79A1B"
+              src="/images/hero-truck.jpg"
               alt="Transnatur freight truck on highway"
               width={560}
               height={420}

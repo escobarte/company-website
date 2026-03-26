@@ -72,7 +72,7 @@ export default function AboutContent() {
             </motion.div>
             <motion.div variants={fadeInUp}>
               <Image
-                src="https://placehold.co/560x400/1F1F1F/C79A1B"
+                src="/images/fleet.jpg"
                 alt="Transnatur fleet on the highway"
                 width={560}
                 height={400}
