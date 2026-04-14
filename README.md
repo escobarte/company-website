@@ -29,7 +29,7 @@ Last udpate: 4/06/2026 1:17PM
 - `website-spec.md` — design decisions and architecture notes
 - `website_roadmap.html` — visual roadmap reference
 - `/web` — Next.js project lives here
-```
+
 
 ---
 
@@ -46,7 +46,7 @@ Last udpate: 4/06/2026 1:17PM
 ### Install nvm и Node.js LTS
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
-# Перезапусти терминал
+Перезапусти терминал
 nvm install --lts
 npm install -g pnpm
 pnpm setup
